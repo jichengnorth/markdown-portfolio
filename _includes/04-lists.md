@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Fav things 
+- long walks 
+- Disoco
+- open souce
